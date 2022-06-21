@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://54.173.252.184:8081/repository/test-release/</url>
+	      <url>http://54.89.162.245:8081/repository/strawberry_app/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://54.173.252.184:8081/repository/test-snapshot/</url>
+	      <url>http://54.89.162.245:8081/repository/strawberry_app_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
